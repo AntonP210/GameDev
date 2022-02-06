@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Obstacle
+  - PickupBaguette
+  - PickupBaguetteDouble
+  - PickupBanana
+  - PickupBread
+  - PickupCake
+  - PickupCarrot
+  - PickupKetchup
+  - PickupCereal
+  - PickupCheese
+  - PickupChocolate
+  - PickupCleaner
+  - PickupCoke
+  - PickupCokeCan
+  - PickupCorrisant
+  - PickupDonut
+  - PickupEggs
+  - PickupEnergyBar
+  - PickupFanta
+  - PickupFish
+  - PickupHamburger
+  - PickupMilk
+  - PickupPineApple
+  - PickupPizza
+  - PickupSausage
+  - PickupChips
+  - PickupSpritePack
+  - PickupSteak
+  - PickupToiletPaper
+  - PickupWaterPack
+  - PickupWaterMelon
+  - Pickup
+  - MusicManager
+  - Puddle
+  - MusicVolume
+  - VfxVolume
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Environment
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
